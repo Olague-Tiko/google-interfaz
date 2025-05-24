@@ -63,4 +63,7 @@
 
 </body>
 </html># google-interfaz
+
+
+
 Este es mi primer proyecto aprendiendo a usar html y css intentando simular la interfaz o página principal de google
